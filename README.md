@@ -11,11 +11,21 @@ My work includes **ERC20 token design**, **smart contract upgradability**, **DeF
 
 I’m passionate about **decentralization**, **cryptographic security**, and creating **real-world blockchain applications**.
 
+
 ---
 
 ## 📦 Featured Projects
+---
 
-### 1. 🔄 [pok-usdt-swap](https://github.com/edumar111/pok-usdt-swap)
+### 1. 💎 [erc20-own](https://github.com/edumar111/erc20-own)
+**Custom ERC20 Token with Ownable2Step and Pausable Features**  
+- Implements a **standard ERC20** following EIP-20 with customizations.  
+- Includes **ownership management** using `Ownable2Step` and **emergency pause control** via `Pausable`.  
+- Unit testing and code coverage implemented using **Foundry (forge)**.
+
+🧩 *Key Topics:* EIP-20 Compliance, Pausable Token, Ownership Transfer, Solidity Best Practices.  
+
+### 2. 🔄 [pok-usdt-swap](https://github.com/edumar111/pok-usdt-swap)
 **POK ↔ USDT 1:1 Swap (6 decimals)**  
 - Implements a **swap mechanism** between two ERC20 tokens (POK and USDT) at a 1:1 ratio.  
 - Built with **OpenZeppelin** libraries, **ReentrancyGuard**, and **Ownable2Step**.  
@@ -23,15 +33,7 @@ I’m passionate about **decentralization**, **cryptographic security**, and cre
 
 🧩 *Key Topics:* ERC20, SafeERC20, Pausable, Foundry Tests, Gas Optimization.  
 
----
 
-### 2. 💎 [erc20-own](https://github.com/edumar111/erc20-own)
-**Custom ERC20 Token with Ownable2Step and Pausable Features**  
-- Implements a **standard ERC20** following EIP-20 with customizations.  
-- Includes **ownership management** using `Ownable2Step` and **emergency pause control** via `Pausable`.  
-- Unit testing and code coverage implemented using **Foundry (forge)**.
-
-🧩 *Key Topics:* EIP-20 Compliance, Pausable Token, Ownership Transfer, Solidity Best Practices.  
 
 ---
 

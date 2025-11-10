@@ -80,4 +80,11 @@ forge coverage
 * Deploy selected contracts on LACChain, Arbitrum, or Besu private networks.
 
 * Integrate with React/Next.js DApps using ethers.js and Web3.js.
-  
+
+
+# 📬 Contact
+
+Eduardo Marchena
+🌐 (LinkedIn)[https://www.linkedin.com/in/edumar111/]
+
+💻  (GitHub)[https://github.com/edumar111]

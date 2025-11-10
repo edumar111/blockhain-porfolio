@@ -53,3 +53,20 @@ All projects include unit tests using **Foundry**:
 forge build
 forge test
 forge coverage
+```
+
+## 🛠️ Technologies Used
+
+* Solidity (v0.8.x)
+
+* Foundry / Forge (for testing & coverage)
+
+* OpenZeppelin Contracts
+
+* UUPS Upgradeability Pattern
+
+* EIP-20 Standard Compliance
+
+* Hardhat (optional) for deployment scripts
+
+* GitHub Actions (CI/CD automation for builds)

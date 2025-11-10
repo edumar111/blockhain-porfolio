@@ -85,6 +85,6 @@ forge coverage
 # 📬 Contact
 
 Eduardo Marchena
-🌐 (LinkedIn)[https://www.linkedin.com/in/edumar111/]
+🌐 [LinkedIn](https://www.linkedin.com/in/edumar111/)
 
-💻  (GitHub)[https://github.com/edumar111]
+💻  [GitHub](https://github.com/edumar111)

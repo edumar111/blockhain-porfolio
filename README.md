@@ -70,3 +70,14 @@ forge coverage
 * Hardhat (optional) for deployment scripts
 
 * GitHub Actions (CI/CD automation for builds)
+
+
+
+## 📈 Future Work
+
+* Add ERC721 NFT projects (marketplaces, POK NFT Clubs).
+
+* Deploy selected contracts on LACChain, Arbitrum, or Besu private networks.
+
+* Integrate with React/Next.js DApps using ethers.js and Web3.js.
+  
